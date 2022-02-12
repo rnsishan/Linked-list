@@ -1,7 +1,6 @@
 /*Operations on circular queue
 Array implementation of queue with maximum size MAX
 ISHAN KOUL
-1RN20CS056
 */
 
 #include<stdio.h>
