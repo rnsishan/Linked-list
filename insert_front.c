@@ -1,3 +1,4 @@
+//inserting a node at the beginning of the list
 #include<stdio.h>
 #include<stdlib.h>
 
